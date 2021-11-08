@@ -1,0 +1,17 @@
+.article-image {
+    width: 800px;   
+    height: 450px;
+    float: right;
+    margin: 0px;
+    }
+    .sty1 {
+        font-size: 30px;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    .article{
+        width: 800px;   
+        height: 400px;
+        float: left;
+        margin: 0px; 
+    }
